@@ -1,5 +1,5 @@
 # library-mangement
-based on OOPs
+based on Python  OOPs
 
 problem statement--
 student library
